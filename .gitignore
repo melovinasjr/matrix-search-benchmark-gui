@@ -1,0 +1,6 @@
+*.class
+*.exe
+*.o
+*.obj
+build/
+
