@@ -4,6 +4,10 @@ Coursework project for Data Structures.
 
 This project compares multiple search strategies on a generated matrix through a Java Swing GUI. It benchmarks sequential search, binary search over a cached sorted array, and hash-based lookup.
 
+## Preview
+
+![Matrix Search Benchmark GUI preview](assets/preview.png)
+
 ## Coursework Note
 
 Built as an academic project to compare search strategies and observe how preprocessing changes lookup performance.
